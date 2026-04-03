@@ -1,51 +1,50 @@
 # em0t
 
 ```vim
-:whoami
-em0t / ZhangYier
-
+" ~/.em0t
 :set editor=vim
 :set role=ai-workflow-toolsmith
 :set focus=plugins,tokens,edge-cases
+:set mode=practical
 ```
 
-```sh
-$ current
-maintain taptap/claude-plugins-marketplace
-contribute rtk-ai/rtk
-experiment with openclaw on a dedicated Mac mini
+```vim
+:ls ~/active
+1  plugins   maintain taptap/claude-plugins-marketplace
+2  rtk       contribute rtk-ai/rtk
+3  claw      experiment with openclaw on a dedicated Mac mini
 ```
 
-```txt
-agent familiarity
-  Claude Code  90
-  Codex        50
-  Gemini       10
+```vim
+:echo g:agent_familiarity
+Claude Code  90
+Codex        50
+Gemini       10
 
-daily usage
-  Claude Code  50
-  Codex        45
-  Gemini        5
+:echo g:daily_usage
+Claude Code  50
+Codex        45
+Gemini        5
 ```
 
-## Links
+## :e work
 
 - `plugins` [taptap/claude-plugins-marketplace](https://github.com/taptap/claude-plugins-marketplace)
-- `rtk` contributor at [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-- `openclaw` experiments around [openclaw/openclaw](https://github.com/openclaw/openclaw)
+- `rtk` [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+- `claw` [openclaw/openclaw](https://github.com/openclaw/openclaw)
 
 ## :messages
 
-```text
+```vim
 token burn hidden by "helpful" defaults
 context loss that changes what the model thinks is true
 weird failures, unsafe behavior, and security-shaped bugs
 ```
 
-## :set philosophy
+## :set philosophy?
 
-```text
-signal over noise
-small sharp tools over heavy systems
-pay attention to the edge case early
+```vim
+:set signal>noise
+:set tools=small,sharp
+:set check_edge_cases_early
 ```
