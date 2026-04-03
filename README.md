@@ -3,33 +3,33 @@
 ```text
 $ whoami
 em0t / ZhangYier
-toolsmith for AI workflows, plugins, and practical automation
+vim user
+toolsmith for AI workflows, plugins, and sharp CLI paths
 ```
 
-I work on developer tooling, workflow experiments, and the small details that change how people actually ship.
+I turn messy workflows into smaller, faster, harder-to-misuse tools.
 
-偏爱小而快的系统，也对异常信号很敏感。
+## Current Threads
 
-## Now
+- `maintain` [taptap/claude-plugins-marketplace](https://github.com/taptap/claude-plugins-marketplace) for team-facing Claude Code plugins and workflow utilities
+- `contribute` [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+- `experiment` [openclaw/openclaw](https://github.com/openclaw/openclaw) on a dedicated Mac mini to see what survives real engineering work
 
-- Maintaining [taptap/claude-plugins-marketplace](https://github.com/taptap/claude-plugins-marketplace) for team-facing Claude Code plugins and workflow utilities.
-- Contributing to [rtk-ai/rtk](https://github.com/rtk-ai/rtk) while evaluating token-efficient tooling for internal adoption.
-- Running [OpenClaw](https://github.com/openclaw/openclaw) experiments on a dedicated Mac mini to see what fits a real engineering workflow.
-
-## Workflow
+## Workbench
 
 ```text
 editor: vim
 agents: Claude Code / Codex / Gemini
 familiarity: 90 / 50 / 10
-daily usage: 50 / 45 / 5
+usage: 50 / 45 / 5
+focus: plugins / tokens / edge cases / workflow fit
 ```
 
-## What I Dig Into
+## What I Notice
 
-- AI tools, plugins, workflow ergonomics, and sharp CLI automation.
-- Token cost, context quality, and the bad defaults that quietly waste time.
-- Weird edge cases, failure modes, and security-sensitive signals.
+- token burn hidden behind "helpful" defaults
+- context loss that changes what the model thinks is true
+- weird failures, unsafe behavior, and security-shaped bugs
 
 ## Selected Work
 
