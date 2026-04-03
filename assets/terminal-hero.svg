@@ -60,12 +60,12 @@
   <text x="98" y="792" class="mono dim">vim / Claude Code / Codex / Gemini</text>
   <text x="98" y="824" class="mono dim">plugins / workflow fit / cost / safety</text>
 
-  <text x="64" y="892" class="mono text"><tspan class="accent3">$</tspan><tspan> :messages</tspan></text>
+  <text x="64" y="892" class="mono text"><tspan class="accent3">$</tspan><tspan> messages</tspan></text>
   <text x="98" y="928" class="mono dim">token burn hidden by "helpful" defaults</text>
   <text x="98" y="960" class="mono dim">context loss changes model understanding</text>
   <text x="98" y="992" class="mono dim">weird failures, unsafe behavior, security bugs</text>
 
-  <text x="64" y="1060" class="mono text"><tspan class="accent1">$</tspan><tspan> :set philosophy</tspan></text>
+  <text x="64" y="1060" class="mono text"><tspan class="accent1">$</tspan><tspan> cat ~/.philosophy</tspan></text>
   <text x="98" y="1096" class="mono dim">signal &gt; noise</text>
   <text x="98" y="1128" class="mono dim">small sharp tools &gt; heavy systems</text>
   <text x="98" y="1160" class="mono dim">check edge cases early</text>
