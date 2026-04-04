@@ -52,12 +52,12 @@
   <text x="98" y="520" class="mono text"><tspan class="accent5">3</tspan><tspan>  claw      run OpenClaw on a dedicated Mac mini</tspan></text>
 
   <text x="64" y="600" class="mono text"><tspan class="accent3">$</tspan><tspan> cat ~/.messages</tspan></text>
-  <text x="98" y="636" class="mono dim">token burn hidden by "helpful" defaults</text>
-  <text x="98" y="668" class="mono dim">context loss changes model understanding</text>
-  <text x="98" y="700" class="mono dim">weird failures, unsafe behavior, security bugs</text>
+  <text x="98" y="636" class="mono dim">hidden token waste</text>
+  <text x="98" y="668" class="mono dim">context loss in tools and prompts</text>
+  <text x="98" y="700" class="mono dim">weird failures and security-shaped bugs</text>
 
   <text x="64" y="780" class="mono text"><tspan class="accent1">$</tspan><tspan> cat ~/.philosophy</tspan></text>
-  <text x="98" y="816" class="mono dim">signal &gt; noise</text>
-  <text x="98" y="848" class="mono dim">small sharp tools &gt; heavy systems</text>
-  <text x="98" y="880" class="mono dim">check edge cases early</text>
+  <text x="98" y="816" class="mono dim">keep the workflow small</text>
+  <text x="98" y="848" class="mono dim">keep the signal intact</text>
+  <text x="98" y="880" class="mono dim">notice the edge case early</text>
 </svg>
