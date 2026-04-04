@@ -48,9 +48,9 @@
   <text x="98" y="384" class="mono dim">focus = team plugins / token cost / edge cases</text>
 
   <text x="64" y="448" class="mono text"><tspan class="accent6">$</tspan><tspan> ls ~/active</tspan></text>
-  <text x="98" y="484" class="mono text"><tspan class="accent5">1</tspan><tspan>  maintain team Claude Code plugins</tspan></text>
-  <text x="98" y="518" class="mono text"><tspan class="accent5">2</tspan><tspan>  contribute to rtk</tspan></text>
-  <text x="98" y="552" class="mono text"><tspan class="accent5">3</tspan><tspan>  tinkering with the lobster on a dedicated Mac mini</tspan></text>
+  <text x="98" y="484" class="mono text">maintain team Claude Code plugins</text>
+  <text x="98" y="518" class="mono text">contribute to rtk</text>
+  <text x="98" y="552" class="mono text">tinker with clew</text>
 
   <text x="64" y="640" class="mono text"><tspan class="accent3">$</tspan><tspan> cat ~/.messages</tspan></text>
   <text x="98" y="676" class="mono dim">hidden token waste</text>
